@@ -64,7 +64,7 @@ require (
 	golang.org/x/net v0.0.0-20211015210444-4f30a5c0130f
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/sys v0.0.0-20211205182925-97ca703d548d
-	google.golang.org/grpc v1.43.0
+	google.golang.org/grpc v1.45.0
 	k8s.io/api v0.22.2
 	k8s.io/apimachinery v0.22.2
 	k8s.io/client-go v0.22.2
